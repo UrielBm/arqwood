@@ -12,7 +12,7 @@ My GitHub: [github](https://github.com/UrielBm)
 ## Demo
 
 El web podrás encontrarla en la siguiente dirección:
-**Dirección del Link**: [Link-Demo](https://urielbm.github.io/tech_pro_page/)
+**Dirección del Link**: [Link-Demo](https://urielbm.github.io/arqwood/)
 
 ## Correr desde tu máquina
 
